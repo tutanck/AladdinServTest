@@ -1,0 +1,16 @@
+{
+  "name": "aladdinserv",
+  "version": "0.0.0",
+  "description": "Alladin pipelines server",
+  "main": "aladdin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tutanck",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~4.15.4",
+    "socket.io": "~2.0.3",
+    "socket.io-client": "~2.0.3"
+  }
+}
